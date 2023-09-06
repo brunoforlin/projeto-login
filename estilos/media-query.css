@@ -19,6 +19,13 @@
         height: 100%;
         width: 70%;
     }
+    div#formulario > h1 {
+        font-size: 1.5em;
+    }
+    
+    div#formulario > p {
+        font-size: 1em;
+    }
     
 }
 
@@ -31,14 +38,20 @@
     }
 
     div#imagem {
-        float: left;
+        float: right;
         height: 100%;
         width: 50%;
     }
 
     div#formulario {
-        float: right;
+        float: left;
         width: 50%;
     }
-
+    div#formulario > h1 {
+        font-size: 2em;
+    }
+    
+    div#formulario > p {
+        font-size: 1.2em;
+    }
 }
